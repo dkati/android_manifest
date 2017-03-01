@@ -111,6 +111,7 @@
   <project path="vendor/du" name="android_vendor_du" remote="du" revision="n7x" />
 
   <!--jflte common stuff-->
+  <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
   <project name="Buff99/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="cm-14.1"/>
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
